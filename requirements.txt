@@ -1,8 +1,2 @@
-diffusers
-transformers
-accelerate
-safetensors
-torch
-google-generativeai
 streamlit
-Pillow # Pillow is required for image handling (PIL)
+google-generativeai
